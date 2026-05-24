@@ -10,7 +10,7 @@ def load_cars_from_json(file_path="data/cars.json"):
     with open(full_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
     
-    from core.car import Car
+    from Bucket.Class1.core.car import Car
     
     cars = []
     for car_data in data["test_cars"]:
