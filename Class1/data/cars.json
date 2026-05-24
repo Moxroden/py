@@ -1,0 +1,22 @@
+{
+  "test_cars": [
+    {
+      "brand": "bmw",
+      "model": "X5",
+      "year": 2023,
+      "expected_fuel_consumption": 9.5
+    },
+    {
+      "brand": "audi",
+      "model": "A4",
+      "year": 2022,
+      "expected_fuel_consumption": 7.2
+    },
+    {
+      "brand": "toyota",
+      "model": "Camry",
+      "year": 2021,
+      "expected_fuel_consumption": 8.1
+    }
+  ]
+}
