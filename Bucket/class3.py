@@ -124,7 +124,7 @@ def get_max_number():
 
 get_max_number()
 
-#     for i in range(3): print(i)  # 0 1 2
+# 123     for i in range(3): print(i)  # 0 1 2
 
 
 
